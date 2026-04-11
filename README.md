@@ -39,7 +39,7 @@ I enjoy turning ideas into **scalable, secure cloud systems** and continuously i
 ## 🧠 GCP Architecture (3-Tier)
 
 <p align="center">
-  <img src="https://via.placeholder.com/750x350?text=Your+GCP+Architecture+Diagram" width="750"/>
+  <img src="GCP 3-Tier architecture overview.png"/>
 </p>
 
 💡 *Replace this with your actual architecture diagram later*
