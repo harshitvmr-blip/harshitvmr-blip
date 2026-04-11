@@ -1,6 +1,6 @@
 <!-- 🌌 FUTURISTIC ANIMATED BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=260&section=header&text=Harshit%20Verma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%7C%20Turning%20Ideas%20into%20Scalable%20Cloud%20Systems%20%7C&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=260&section=header&text=Harshit%20Verma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%7C%20Building%20Scalable%20Cloud%20Systems%20%7C&descAlignY=60&descSize=18"/>
 </p>
 
 <!-- 🧠 Typing Animation -->
@@ -12,105 +12,95 @@
 
 ## 🌟 About Me
 
-I started my journey with **Linux and networking**, curious about how systems communicate.  
-That curiosity led me into **cloud computing**, where I now build and deploy real-world applications using **Google Cloud Platform (GCP)**.
+I am a **Cloud Engineering enthusiast** focused on building **scalable and secure systems on Google Cloud Platform (GCP)**.
 
-I enjoy turning ideas into **scalable, secure cloud systems** and continuously improving my skills.
+I started with **Linux and networking fundamentals**, and now I design and deploy **real-world cloud applications** using modern backend technologies.
+
+💡 I believe in *learning by building*, not just studying.
 
 ---
 
 ## 🚧 Currently Working On
+
 - 🚀 Building scalable backend systems on GCP  
-- 📚 Preparing for Cloud certifications  
+- 📚 Preparing for cloud certifications  
 - 🔧 Strengthening Linux & networking fundamentals  
 
 ---
 
-## 🚀 What I Do
-- ☁️ Deploy and manage cloud infrastructure on GCP  
-- 🖥️ Configure and manage Linux systems  
-- 🌐 Build backend systems using Flask & REST APIs  
-- 🔐 Implement secure networking (VPC, IAM, SSL)  
-- 📊 Monitor systems using Cloud Logging & Monitoring  
-- ⚙️ Deploy apps using Nginx & Gunicorn  
+## ⚡ Key Skills
+
+- Cloud Deployment (GCP – Cloud Run, Compute Engine, Storage)  
+- Backend Development (Python, Flask, REST APIs)  
+- Linux System Administration  
+- Networking Fundamentals (VPC, Firewalls)  
+- Security (IAM, SSL, Access Control)  
 
 ---
 
-## 🧠 GCP Architecture (3-Tier)
+## 🚀 What I Do
 
-<p align="center">
-  <img src="GCP 3-Tier architecture overview.png"/>
-</p>
-
+- ☁️ Deploy and manage applications on GCP  
+- 🖥️ Configure and manage Linux systems  
+- 🌐 Build backend systems using Flask & REST APIs  
+- 🔐 Implement secure authentication and networking  
+- 📊 Monitor systems using Cloud Logging & Monitoring  
+- ⚙️ Deploy apps using Nginx & Gunicorn  
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🔹 Next Step Guide – AI Career Platform
-- Designed scalable backend with **Flask & REST APIs**  
-- Deployed using **Cloud Run for better scalability**  
-- Integrated secure database using **Cloud SQL (MySQL)**  
-
----
-
-### 🔹 Three-Tier Architecture Deployment (GCP)
-- Designed production-style **3-tier architecture**  
-- Configured **Compute Engine, VPC, Cloud SQL**  
-- Implemented **secure communication via firewall rules**  
+- Built a scalable backend using Flask deployed on Cloud Run  
+- Designed secure database architecture using Cloud SQL  
+- Implemented REST APIs for dynamic user interaction  
+- Ensured high availability using serverless infrastructure  
 
 ---
 
 ### 🔹 Cloud Hosted Static Website
-- Hosted using **Google Cloud Storage**  
-- Configured public access and deployment  
+- Hosted static website using Google Cloud Storage  
+- Configured public access and optimized deployment  
+- Implemented cost-effective hosting solution  
 
 ---
 
-## 🎯 Why Me?
+## 🌍 Live Deployments
 
-- Hands-on experience with real cloud deployments  
-- Strong foundation in Linux & networking  
-- Focused on **practical, real-world projects**  
-- Continuously learning and improving  
-
----
-
-## 🛤️ Learning Roadmap
-- ✅ GCP Fundamentals  
-- ✅ Linux & Networking Basics  
-- 🔄 Advanced Cloud Architecture  
-- 🔄 DevOps (Docker, CI/CD)  
-- 🎯 Goal: Cloud Engineer Role  
+🚀 **Next Step Guide**  
+🔗 Live: https://your-live-link.com  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Google%20Cloud-GCP-blue?style=for-the-badge&logo=googlecloud" />
-  <img src="https://img.shields.io/badge/Compute-Engine-blue?style=for-the-badge&logo=googlecloud" />
-  <img src="https://img.shields.io/badge/Cloud-Run-blue?style=for-the-badge&logo=googlecloud" />
-  <img src="https://img.shields.io/badge/Cloud-Storage-blue?style=for-the-badge&logo=googlecloud" />
-</p>
+### ☁️ Cloud
+- Google Cloud Platform (GCP)  
+- Cloud Run, Compute Engine, Cloud Storage  
+- Cloud SQL, IAM, VPC  
+
+### 💻 Backend
+- Python  
+- Flask  
+- REST APIs  
+
+### 🖥️ Systems
+- Linux  
+- Nginx  
+- Gunicorn  
+
+### ⚙️ Tools
+- Git  
+- GitHub  
 
 ---
 
-### 💻 Programming
-<p>
-  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask" />
-</p>
+## 📚 Currently Learning
 
----
-
-### 🖥️ Systems & Tools
-<p>
-  <img src="https://img.shields.io/badge/Linux-orange?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-</p>
+- Docker & Containerization  
+- CI/CD (GitHub Actions)  
+- Advanced Cloud Architecture  
 
 ---
 
@@ -131,17 +121,21 @@ I enjoy turning ideas into **scalable, secure cloud systems** and continuously i
 
 ---
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
 ## 🌐 Connect With Me
-- 📧 harshitvmr@gmail.com  
-- 💼 LinkedIn: YOUR_LINKEDIN  
+
+- 📧 Email: [harshitvmr@gmail.com](mailto:harshitvmr@gmail.com)  
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
 - 💻 GitHub: https://github.com/YOUR_USERNAME  
 
 ---
 
+## 🤝 Open to Opportunities
+
+I am actively looking for **Cloud / DevOps Internship roles**  
+Feel free to connect or collaborate 🚀  
+
+---
+
 ## ⚡ Fun Fact
+
 I don’t just learn cloud — I deploy everything I learn into real projects 🚀
