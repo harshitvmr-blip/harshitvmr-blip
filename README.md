@@ -42,7 +42,6 @@ I enjoy turning ideas into **scalable, secure cloud systems** and continuously i
   <img src="GCP 3-Tier architecture overview.png"/>
 </p>
 
-💡 *Replace this with your actual architecture diagram later*
 
 ---
 
