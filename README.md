@@ -141,8 +141,8 @@ IT Intern – Team Computers Pvt. Ltd. (2025)
 ## Connect With Me
 
 - Email: harshitvmr@gmail.com  
-- LinkedIn: YOUR_LINKEDIN  
-- GitHub: https://github.com/YOUR_USERNAME  
+- LinkedIn: https://www.linkedin.com/in/harshitverma1202   
+- GitHub: https://github.com/harshitvmr-blip 
 
 ---
 
